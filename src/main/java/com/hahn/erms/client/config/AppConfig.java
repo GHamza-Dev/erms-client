@@ -57,10 +57,6 @@ public class AppConfig {
         return getProperty("employees.path");
     }
 
-    public static String getJwtSecret() {
-        return getProperty("jwt.secret");
-    }
-
     public static void setJwtToken(String token) {
         jwtToken = token;
     }
