@@ -2,6 +2,8 @@
 
 A Java Swing-based desktop client application for managing employee resources.
 
+This application consumes the ERMS API ([erms-api github repository](https://github.com/GHamza-Dev/erms))
+
 ## Technologies Used
 
 ### Core Technologies
@@ -94,7 +96,7 @@ This will:
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/GHamza-Dev/erms-client.git
 ```
 
 2. Navigate to the project directory:
